@@ -1,4 +1,4 @@
-Lab Report 1
+# Lab Report 1
 ============
 This is a tutorial to show how to log into a course-specific account on ieng6
 --------------------------
