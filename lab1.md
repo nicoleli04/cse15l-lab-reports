@@ -1,8 +1,10 @@
 Lab Report 1
 ============
-##This is a tutorial showing how to log into a course-specific account on ieng6
+This is a tutorial showing how to log into a course-specific account on ieng6
+------------------------
 
 **Installing/Accessing VScode**
+***
 
 > Since my computer already had VScode installed from taking CSE8B last quarter, I did not need to install VScode.
 
@@ -13,6 +15,7 @@ Lab Report 1
 
 
 **Remotely Connecting**
+***
 1. Install Git
 
 > I already have Git installed but for the tutorial use this: 
@@ -38,3 +41,4 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 
 
 **Trying Some Commands**
+***
