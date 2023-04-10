@@ -9,7 +9,7 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 > Since my computer already had VScode installed from taking CSE8B last quarter, I did not need to install VScode.
 
 1. Find VScode on your laptop using the search bar
-![Image](.png)
+![Image](Screenshot 2023-04-09 181742.png)
 
 2. Open VScode
 
