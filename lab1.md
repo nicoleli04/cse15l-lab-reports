@@ -25,6 +25,7 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 
 > I already have Git installed. 
 
+
 2. Open a terminal on VScode (make sure it uses git bash) and type in `ssh [your usename]@ieng6.ucsd.edu`, your username should be from your course specific account and it should be in the form of cs15lsp23zz.
 
 ![Image](Screenshot 2023-04-05 152740.png)
