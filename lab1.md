@@ -44,11 +44,13 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 
 **Trying Some Commands**
 ***
-1. try running some of these commands on the terminal
+1. Try running some of these commands on the terminal
 > cd ~
 cd
 ls -lat
 ls -a
-ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+ls /home/linux/ieng6/cs15lsp23/cs15lsp23zz
 cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+2. 
