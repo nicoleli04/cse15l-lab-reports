@@ -40,6 +40,7 @@ respond `yes`.
 
 4. You should have something like this:
 
+![Image](Screenshot 2023-04-05 153535.png)
 
 
 Congratulations! Your terminal is now connected to a computer in the CSE basement!
