@@ -61,4 +61,4 @@ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
 2. Here are some commands that I tried out
 
-![Image](Screenshot 2023-04-05 152740.png)
+![Image](Screenshot 2023-04-09 184307.png)
