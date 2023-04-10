@@ -38,10 +38,10 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 respond `yes`.
 
-3. Enter your password 
+4. Enter your password 
 > note that the terminal will not show you typing anything while you are entering in the password.
 
-4. You should have something like this:
+5. You should have something like this:
 
 ![Image](Screenshot 2023-04-05 153535.png)
 
