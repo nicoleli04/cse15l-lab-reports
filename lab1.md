@@ -4,7 +4,7 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 ------------------------
 
 **Installing/Accessing VScode**
-***
+---
 
 > Since my computer already had VScode installed from taking CSE8B last quarter, I did not need to install VScode.
 
@@ -14,14 +14,16 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 2. Open VScode
 
 3. You should end up with something like this:
+![Image](Screenshot 2023-04-05 152740.png)
+
 
 
 
 **Remotely Connecting**
-***
+---
 1. Install Git
 
-> I already have Git installed 
+> I already have Git installed. 
 
 2. Open a terminal on VScode and type in `ssh [your usename]@ieng6.ucsd.edu`, your username should be from your course specific account and it should be in the form of  cs15lwi23zz.
 
@@ -44,7 +46,7 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 
 
 **Trying Some Commands**
-***
+---
 1. Try running some of these commands on the terminal
 > cd ~
 cd
