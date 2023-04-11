@@ -62,3 +62,12 @@ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 2) Here are some commands that I tried out
 
 ![Image](Screenshot 2023-04-09 184307.png)
+
+3) Think about what the commands do
+
+Here is an example: 
+
+![Image](Screenshot 2023-04-05 155024.png)
+
+I tried to print the the contents of the file hello.txt. It printed No such file or directory because the file hello.txt does not exist.
+
