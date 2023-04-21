@@ -76,3 +76,5 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 
 I tried to print the the contents of the file hello.txt. It printed No such file or directory because the file hello.txt does not exist.
 
+
+YAY! You have reached the end of this tutorial! Congratulations on getting through the first lab in CSE15L. You are one step closer to achieving your goals :)
