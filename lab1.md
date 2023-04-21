@@ -30,10 +30,10 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 ![Image](Screenshot 2023-04-10 093315.png)
 
 3) You will receive a message like this: 
-⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+`⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+Are you sure you want to continue connecting (yes/no/[fingerprint])? `
 
 respond `yes`.
 
@@ -51,13 +51,13 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 **Trying Some Commands**
 ---
 1) Try running some of these commands on the terminal
-> cd ~
-cd
-ls -lat
-ls -a
-ls /home/linux/ieng6/cs15lsp23/cs15lsp23zz
-cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+> `cd ~`
+`cd`
+`ls -lat`
+`ls -a`
+`ls /home/linux/ieng6/cs15lsp23/cs15lsp23zz`
+`cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 2) Here are some commands that I tried out
 
