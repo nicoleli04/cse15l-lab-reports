@@ -8,20 +8,20 @@ This is a tutorial showing how to log into a course-specific account on ieng6
 
 > Since my computer already had VScode installed from taking CSE8B last quarter, I did not need to install VScode. But you are probably not as fortunate as I am, so I will explain how to install VScode.
 
-
+1) Go to this [link] (https://code.visualstudio.com/) and install **Visual Studio Code** onto your computer following the instructions. Make sure to download the specific version based on whatever your operating system is. My operating system is Windows so I would download the version of VScode specific to Windows. 
 
 
 > This is if you have downloaded VScode and how you can access VScode from your laptop.
 
-1) Find VScode on your laptop using the search bar
+2) Find VScode on your laptop using the search bar from your laptop
 ![Image](Screenshot 2023-04-09 181742.png)
 
-2) Open VScode
+3) Open VScode by clicking the open button
 
-3) You should end up with something like this (or you know if you were working on a PA from another cs class you probably see VScode with the PA starter code opened):
+4) You should end up with something like this when VScode is opened:
 ![Image](Screenshot 2023-04-05 152740.png)
 
-
+Congratulations! You successfully installed and accessed VScode!
 
 
 **Remotely Connecting**
