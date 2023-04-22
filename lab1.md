@@ -100,6 +100,6 @@ In the first case, `cd` changes the current working directory to the home direct
 In the second case, `cd` does not change the working directory because it provides no path.
 
 
-> These are just some commands that I tried out. You can try out other commands that we learned in class such as 'pwd' which displays the current working directory and'scp' which copies files from one computer to another. There is no better way to learn than practicing. After all practice makes perfect. So feel free to try out some of the commands on your own to see what they do.
+> These are just some commands that I tried out. You can try out other commands that we learned in class such as `pwd` which displays the current working directory and `scp` which copies files from one computer to another. There is no better way to learn than practicing. After all practice makes perfect. So feel free to try out some of the commands on your own to see what they do.
 
 YAY! You have reached the end of this tutorial! Congratulations on getting through the first lab in CSE15L. You are one step closer to achieving your goals :)
