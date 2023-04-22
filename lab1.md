@@ -26,9 +26,9 @@ Congratulations! You successfully installed and accessed VScode!
 
 **Remotely Connecting**
 ---
-1) Install Git
+1) Install Git using the following [link](https://gitforwindows.org/) if you use a windows operator.
 
-> I already have Git installed. But since this is a tutorial for beginners sadly I tell you how to install Git. 
+> Note that this is Git for Windows specifically, which I used because my operating system is Windows. 
 
 2) Open a terminal on VScode (make sure it uses git bash) and type in `ssh [your usename]@ieng6.ucsd.edu`, your username should be from your course specific account and it should be in the form of cs15lsp23zz. Please make sure you don't put zz in, zz represents your specific letters. For example, my username is cs15lsp23pv.
 
