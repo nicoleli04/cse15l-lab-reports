@@ -26,7 +26,7 @@ Congratulations! You successfully installed and accessed VScode!
 
 **Remotely Connecting**
 ---
-1) Install Git using the following [link](https://gitforwindows.org/) if you use a windows operator.
+1) Install Git using this [link](https://gitforwindows.org/) if you use a windows operator.
 
 > Note that this is Git for Windows specifically, which I used because my operating system is Windows. 
 
