@@ -78,28 +78,28 @@ I tried to print the the contents of the file hello.txt. It printed No such file
 
 ![Image](Screenshot 2023-04-21 235358.png)
 
-'ls' is used to list all the files and folders in the given path.
-'l' - This option lists the files and directories in a long format, providing more details such as permissions, ownership, size, and modification time.
-'a' - This option includes hidden files and directories in the listing. Hidden files and directories in Unix/Linux systems start with a dot (e.g., .gitignore).
-'t' - This option sorts the files and directories by their modification time, with the newest first.
+`ls` is used to list all the files and folders in the given path.
+`l` - This option lists the files and directories in a long format, providing more details such as permissions, ownership, size, and modification time.
+`a` - This option includes hidden files and directories in the listing. Hidden files and directories in Unix/Linux systems start with a dot (e.g., .gitignore).
+`t` - This option sorts the files and directories by their modification time, with the newest first.
 
-So combining all these information. When I run the command 'ls -lat', it shows a list of files and directories in the current directory, sorted by the most recently modified ones first, including hidden files and directories, and providing details about permissions, ownership, size, and modification time.
+So combining all these information. When I run the command `ls -lat`, it shows a list of files and directories in the current directory, sorted by the most recently modified ones first, including hidden files and directories, and providing details about permissions, ownership, size, and modification time.
 
-Applying this information, you should be able to discern what 'ls -lat' will produce. Stop and think about it. 
+Applying this information, you should be able to discern what `ls -lat` will produce. Stop and think about it. 
 
 ![Image](Screenshot 2023-04-22 002735.png)
 
-Knowing what both 'ls' and 'a' mean, we should know that when we run the command 'ls -a', you will see a list of all files and directories in the current directory, including hidden files and directories, with their names printed in a simple format, one per line. This is just as we predicated it would be.
+Knowing what both `ls` and `a` mean, we should know that when we run the command `ls -a`, you will see a list of all files and directories in the current directory, including hidden files and directories, with their names printed in a simple format, one per line. This is just as we predicated it would be.
 
 ![Image](Screenshot 2023-04-22 003054.png)
 
-The 'cd' command is used to switch the current working directory to the given path.
+The `cd` command is used to switch the current working directory to the given path.
 
-In the first case, 'cd' changes the current working directory to the home directory as directed by '~'.
+In the first case, `cd` changes the current working directory to the home directory as directed by `~`.
 
-In the second case, 'cd' does not change the working directory because it provides no path.
+In the second case, `cd` does not change the working directory because it provides no path.
 
 
-These are just some commands that I tried out. You can try out other commands that we learned in class such as 'pwd' which displays the current working directory and'scp' which copies files from one computer to another. There is no better way to learn than practicing. After all practice makes perfect. So feel free to try out some of the commands on your own to see what they do.
+> These are just some commands that I tried out. You can try out other commands that we learned in class such as 'pwd' which displays the current working directory and'scp' which copies files from one computer to another. There is no better way to learn than practicing. After all practice makes perfect. So feel free to try out some of the commands on your own to see what they do.
 
 YAY! You have reached the end of this tutorial! Congratulations on getting through the first lab in CSE15L. You are one step closer to achieving your goals :)
