@@ -65,7 +65,7 @@ Congratulations! Your terminal is now connected to a computer in the CSE basemen
 `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-2) Here are some commands that I tried out
+2) Here are some commands that I tried out and some of the outputs produced.
 
 ![Image](Screenshot 2023-04-09 184307.png)
 
